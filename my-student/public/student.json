@@ -1,0 +1,20 @@
+[
+{
+"registerNo": "BCA001",
+"name": "Arun",
+"course": "BCA",
+"marks": 85
+},
+{
+"registerNo": "BCA002",
+"name": "Priya",
+"course": "BCA",
+"marks": 90
+},
+{
+"registerNo": "BCA003",
+"name": "Rahul",
+"course": "BCA",
+"marks": 78
+}
+]
